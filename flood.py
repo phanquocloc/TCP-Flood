@@ -1,7 +1,7 @@
 # DDOS TCP FLOODER
 # v0.0.2
 
-import socket, requests
+import socket
 import random
 import threading
 
